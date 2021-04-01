@@ -6,11 +6,9 @@
       <img src="/me.jpg" width="100%">  
     </td>
       <td width="55%">
-          <h1>Contact Information </h1>
+          <h1>About Me </h1>
       
-* **Email**: haojieren@sjtu.edu.cn
-          
-* **Address**: Room 522, N0.6 Science Buildings, 800 Dongchuan RD Shanghai, Minhang District Shanghai 200240,China.
+I am currently a Tenure-track Associate Professor in [School of Mathematical Sciences](http://math.sjtu.edu.cn), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn). Prior to this, I worked as an Eberly Postdoc Fellow in the [Department of Statistics, The Pennsylvania State University](https://science.psu.edu/stat), under the supervision of Prof. [Runze Li](http://www.personal.psu.edu/ril4/) during 2019-2020. I received my B.S, M.S and Ph.D in statistics from [School of Statistics and Data Science](https://stat.nankai.edu.cn/),[Nankai University](https://www.nankai.edu.cn/) in 2013, 2016 and 2018, respectively. My PhD supervisor is Prof. [Changliang Zou](http://web.stat.nankai.edu.cn/chlzou/).
     </td>
   </tr>
 </table>
